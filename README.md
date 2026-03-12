@@ -84,6 +84,14 @@ npm run dev
 
 ---
 
+## 🧪 Test Credentials
+
+Once the project is running, you can log in with the following test account:
+- **Email**: `test@example.com`
+- **Password**: `password`
+
+---
+
 ## 📝 Project Features
 - **Modern Dashboard**: Real-time stats and recent activity.
 - **Donation Management**: Record and filter donations with persistent database storage.
